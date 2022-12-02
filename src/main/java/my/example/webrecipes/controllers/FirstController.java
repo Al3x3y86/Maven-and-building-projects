@@ -17,7 +17,7 @@ public class FirstController {
         String projectName = "Веб рецепты";
         String projectCreationDate = "2022-12-01";
         String descriptionProject = "Рецепты WEB 3.0";
-        return studentName+" "+projectName+" "+projectCreationDate+" "+ descriptionProject;
+        return studentName+" "+projectName+" "+projectCreationDate+" "+ descriptionProject ;
     }
 
 }
